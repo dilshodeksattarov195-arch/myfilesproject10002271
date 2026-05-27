@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsrtringify",
+        "uuid": 16333032,
+        "checksum": "qo8pal"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
